@@ -1,5 +1,7 @@
-Hello
+Hola
 
-My name is Camilo
+Soy Camilo
 
-Good bye!
+Estudio DS en Platzi
+
+Adiós
