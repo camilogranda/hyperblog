@@ -39,3 +39,11 @@ body
 {
     font-size: 34px;
 }
+
+#footer
+{
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+}
