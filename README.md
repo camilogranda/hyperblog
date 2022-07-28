@@ -1,5 +1,4 @@
- <p><a href="https://imgur.com/a/JlpkEkm">
-    <img src="https://i.imgur.com/a/JlpkEkm.jpg" width="25%" alt="Monet"></a></p>
+<p><a href="https://imgur.com/qFKVrBR"><img src="https://i.imgur.com/qFKVrBR.jpg"></a></p>
 <p style="text-align:center;font-size:xx-large;"> Logosblog<p>
 
 ## Welcome!
