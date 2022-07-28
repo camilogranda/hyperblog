@@ -1,4 +1,4 @@
- <p><a href="https://imgur.com/a/JlpkEkm"><img src="https://i.imgur.com/a/JlpkEkm.jpg" width="25%" alt="Monet"></a></p>
+<a href="https://imgur.com/CCQDFHI"><img src="https://imgur.com/CCQDFHI.jpg" width="20%" alt="Kandinsky"></a>
 <p style="text-align:center;font-size:xx-large;"> Logosblog<p>
 
 ## Welcome!
