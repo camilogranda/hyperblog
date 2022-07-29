@@ -8,4 +8,10 @@ Adiós
 
 Main 1
 
+<<<<<<< HEAD
 Main 2
+=======
+Experimento 2
+
+Main 1
+>>>>>>> c7c85c7 (exp 2)
