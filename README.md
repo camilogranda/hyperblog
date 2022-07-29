@@ -1,5 +1,6 @@
 <a href="https://imgur.com/CCQDFHI"><img src="https://imgur.com/CCQDFHI.jpg" width="20%" alt="Kandinsky"></a>
-<p style="text-align:right;font-style:italic;">On White II, 1923 - Kandinsky.</p>
+
+*On White II. (1923) Kandinsky.*
   
 # Logosblog
 
