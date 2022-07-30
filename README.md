@@ -23,3 +23,11 @@ Here is a list of interesting artists to keep in mind:
 Thanks for reading!
 
 Hello again!
+<<<<<<< HEAD
+=======
+
+Hola de nuevo en español.
+
+Good bye!
+Adiós.
+>>>>>>> reandme-mejorado
