@@ -21,18 +21,3 @@ Here is a list of interesting artists to keep in mind:
 - Paul Klee
 
 Thanks for reading!
-
-Hello again!
-<<<<<<< HEAD
-=======
-
-Hola de nuevo en español.
-
-Good bye!
-Adiós.
-<<<<<<< HEAD
->>>>>>> reandme-mejorado
-=======
-
-Ensayo cherry-pick 1
->>>>>>> 9720442 (updated)
