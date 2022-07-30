@@ -25,3 +25,6 @@ Thanks for reading!
 Hello again!
 
 Hola de nuevo en español.
+
+Good bye!
+Adiós.
