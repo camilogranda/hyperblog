@@ -30,4 +30,9 @@ Hola de nuevo en español.
 
 Good bye!
 Adiós.
+<<<<<<< HEAD
 >>>>>>> reandme-mejorado
+=======
+
+Ensayo cherry-pick 1
+>>>>>>> 9720442 (updated)
